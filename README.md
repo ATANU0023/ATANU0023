@@ -16,7 +16,7 @@
 
 - Click to play HangMan - https://atanu0023.github.io/Hang-Man-Game/
 - Guess The Number - https://atanu0023.github.io/Guess_The_Number_Game/
-- My 3D portfolio - 
+- My 3D portfolio - https://atenix-iphone-site.netlify.app/
 
  #
 # 🏆 GitHub Trophies
