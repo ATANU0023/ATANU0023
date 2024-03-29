@@ -29,7 +29,7 @@
 
 
 - 📫 How to reach me **atanupramanik506@gmail.com**
-<a><img float="right" align="right" mix-blande-mode="multiply" width="300" height="280" display="flex" src="https://github.com/ATANU0023/ATANU0023/assets/115628155/49b2d24b-5ecc-4f45-bf20-4ae5cd0aec40"></a>
+<a><img float="right" align="right" mix-blande-mode="multiply" width="280" height="260" display="flex" src="https://github.com/ATANU0023/ATANU0023/assets/115628155/49b2d24b-5ecc-4f45-bf20-4ae5cd0aec40"></a>
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
