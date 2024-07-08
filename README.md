@@ -14,6 +14,7 @@
 - 👯 I’m looking to collaborate on any open source
 - 🤔 I’m looking for help with Fullstack web development.
 
+- Visit to my Portfolio - (Atenix.com)[https://atenixportfolio.netlify.app]
 - Click to play HangMan - https://atanu0023.github.io/Hang-Man-Game/
 - Guess The Number - https://atanu0023.github.io/Guess_The_Number_Game/
 - My 3D portfolio - https://atenix-iphone-site.netlify.app/
