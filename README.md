@@ -13,7 +13,7 @@
 
 
 - 🔭 I’m currently working on React Project
-- 🌱 I’m currently learning ```MERN```
+- 🌱 I’m currently learning ```NestJs```
 - 👯 I’m looking to collaborate on any open source
 - 🤔 I’m looking for help with Fullstack web development.
 
