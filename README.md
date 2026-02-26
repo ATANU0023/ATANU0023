@@ -8,7 +8,7 @@
  <h3 align="center">A passionate programmer from India</h3>
 
 <div style="item-align=">
-    <img align="right" alt="coding" width="300" display="flex" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+    <img align="right" alt="coding" width="500" display="flex" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 
 
@@ -23,17 +23,15 @@
 - My 3D portfolio - https://atenix-iphone-site.netlify.app/
 
  #
-# 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ATANU0023&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+<!--# 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=ATANU0023&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)-->
 
 <p align="left" display="flex" > <img src="https://komarev.com/ghpvc/?username=atanu0023&label=Profile%20views&color=0e75b6&style=flat" alt="atanu0023" /> </p>
 
-<a><img align="left" width="150" height="150" display="flex" src="https://raw.githubusercontent.com/nimendrak/nimendrak/main/my-octo/my-octocat.png"></a>
+<a><img align="left" width="150" height="150" display="flex" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif"></a>
 
 
-
-- 📫 How to reach me **atanupramanik506@gmail.com**
-<a><img float="right" align="right" mix-blande-mode="multiply" width="280" height="260" display="flex" src="https://github.com/ATANU0023/ATANU0023/assets/115628155/49b2d24b-5ecc-4f45-bf20-4ae5cd0aec40"></a>
+<a><img float="right" align="right" mix-blande-mode="multiply" width="280" height="260" display="flex" src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif"></a>
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
