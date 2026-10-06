@@ -18,7 +18,8 @@
 - 🤔 I’m looking for help with Fullstack web development.
 
 - Visit to my Portfolio - [Atenix.com](https://atenixportfolio.netlify.app)
-- Click to play HangMan - https://atanu0023.github.io/Hang-Man-Game/
+- Personal Autonomous Agent(PAA) - https://github.com/ATANU0023/PAA
+- JEV decision making - https://github.com/ATANU0023/agent_pilot_with_JEV
 - Guess The Number - https://atanu0023.github.io/Guess_The_Number_Game/
 - My 3D portfolio - https://atenix-iphone-site.netlify.app/
 
